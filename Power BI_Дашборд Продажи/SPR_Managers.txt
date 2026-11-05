@@ -1,0 +1,8 @@
+Менеджер;ID_сотрудника;ID_руководителя;email
+Смирнова Анна;10011;1001;a.smirnova@company.ru
+Кузнецов Дмитрий;10012;1001;d.kuznetsov@company.ru
+Попова Елена;10013;1001;e.popova@company.ru
+Волков Сергей;10014;1002;s.volkov@company.ru
+Морозова Ольга;10015;1002;o.morozova@company.ru
+Соколов Андрей;10016;1000;a.sokolov@company.ru
+Петров Игорь;10017;1003;i.petrov@company.ru
